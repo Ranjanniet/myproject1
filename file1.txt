@@ -1,4 +1,9 @@
 "data for training" 
 for training git
 
+<<<<<<< HEAD
 new branch for project2
+=======
+recent file
+latest
+>>>>>>> 420c0dd272381615a55b5fee4a62ea69645d7269
